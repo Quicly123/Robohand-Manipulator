@@ -2,7 +2,6 @@
 #define VarSpeedServo_h
 
 #include <inttypes.h>
-
 //Defines for 16 bit timers used with  Servo library
 
 #if defined(__AVR_ATmega1280__)  || defined(__AVR_ATmega2560__)
