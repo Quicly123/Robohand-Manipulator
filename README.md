@@ -9,7 +9,6 @@ VarSpeedServo.h
 
 Sample Code - one servo moving, wait for first movement to finish, then execute another movement
 ----------------------------
-
 ```
 
 #include <VarSpeedServo.h> 
